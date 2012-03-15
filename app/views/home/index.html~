@@ -4,7 +4,7 @@
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 		<title>Xayona Website Template</title>
-		<link rel="stylesheet" href="/stylesheets/style.css" type="text/css" />
+		<link rel="stylesheet" href="/vendor/assets/stylesheets/style.css" type="text/css" />
 		<!--[if IE 7]>
 			<link rel="stylesheet" href="css/ie7.css" type="text/css" />
 		<![endif]-->
@@ -12,19 +12,22 @@
 	<body>
 		<div class="page">
 			<div class="header">
-				<a href="/home" id="logo"><img src="images/logo.gif" alt=""/></a>
+				<a href="index.html" id="logo"><img src="images/logo.gif" alt=""/></a>
 				<ul>
-					<li class="selected"><a href="/home">Home</a></li>
-					<li><a href="/about">About</a></li>
-					<li><a href="http://cargocollective.com/lollygagging">Blog</a></li>
+					<li class="selected"><a href="index.html">Home</a></li>
+					<li><a href="about.html">About</a></li>
+					<li><a href="blog.html">Blog</a></li>
 					<li><a href="services.html">Services</a></li>
 				</ul>
 			</div>
 			<div class="body">
 				<div id="featured">
-					<h3>This is my first website!</h3>
-					<p>"Look again at that dot. That's here. That's home. That's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of confident religions, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, every king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every "superstar," every "supreme leader," every saint and sinner in the history of our species lived there--on a mote of dust suspended in a sunbeam." -Carl Sagan</p>
-					<input type="button" value="Read more" onClick="parent.location='http://cargocollective.com/lollygagging'"/>
+					<h3>This is a FREE website template</h3>
+					<p>This website template has been designed by Free Website Templates for you, for free. You can 
+					replace all this text with your own text. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, 
+					sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi 
+					enim ad minim veniam, quis nostrud exerci tation ullamcorper</p>
+					<input type="button" value="Read more" onClick="parent.location='blog.html'"/>
 				</div>
 				<ul class="blog">
 					<li>
@@ -55,15 +58,15 @@
 			</div>
 			<div class="footer">
 				<ul>
-					<li><a href="/home">Home</a></li>
-					<li><a href="/about">About</a></li>
-					<li><a href="http://cargocollective.com/lollygagging">Blog</a></li>
+					<li><a href="index.html">Home</a></li>
+					<li><a href="about.html">About</a></li>
+					<li><a href="blog.html">Blog</a></li>
 					<li><a href="services.html">Gallery</a></li>
 				</ul>
-				<p>&#169; Copyright &#169; 2012. Company name all rights reserved</p>
+				<p>&#169; Copyright &#169; 2011. Company name all rights reserved</p>
 				<div class="connect">
-					<a href="http://facebook.com/whuey" id="facebook">facebook</a>
-					<a href="http://twitter.com/waidailo" id="twitter">twitter</a>
+					<a href="http://facebook.com/freewebsitetemplates" id="facebook">facebook</a>
+					<a href="http://twitter.com/fwtemplates" id="twitter">twitter</a>
 					<a href="http://www.youtube.com/fwtemplates" id="vimeo">vimeo</a>
 				</div>
 			</div>
