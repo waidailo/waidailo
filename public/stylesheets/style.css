@@ -65,7 +65,7 @@ body{
 	overflow:hidden;
 }
 .body div#featured{
-	background:url(../images/house.jpg) no-repeat right top;
+	background:url(../images/self.jpg) no-repeat right top;
 	height:448px;
 	padding:0 0 17px;
 }
